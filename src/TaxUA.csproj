@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <NeutralLanguage>en-US</NeutralLanguage>
-    <Version>3.1.3.0</Version>
+    <Version>3.1.4</Version>
     <Authors>Serhiy Lakas</Authors>
     <Description>Ukraine tax classes</Description>
     <Copyright>2015, Serhiy Lakas</Copyright>
